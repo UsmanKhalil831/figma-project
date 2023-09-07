@@ -1,0 +1,4 @@
+class CartManager {
+  List dataList = [];
+  
+}
